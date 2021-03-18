@@ -1,6 +1,8 @@
 # Visual-Cryptography-Solver
 Overlays 2 PNGs to create one image
 
+Encrypt [here](https://github.com/LessonStudio/VisualCryptography)
+
 ### Setup
 `python3 -m pip install Pillow`
 
@@ -17,3 +19,4 @@ Example:
 Optional arguments:
     -h: Show this help screen
 ```
+
