@@ -13,7 +13,7 @@ Usage:
     python3 main.py <image 1> <image 2>
 
 Example:
-    python3 main.py 'image1.png image2.png'
+    python3 main.py 'image1.png' 'image2.png'
 
 
 Optional arguments:
