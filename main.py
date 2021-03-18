@@ -4,7 +4,7 @@ import sys
 
 def help():
 	print(f"Visual Cryptography Solver for PNGs")
-	print(f"Usage:\n\tpython3 {args[0]} <image 1> <image 2>\n\nExample:\n\tpython3 {args[0]} 'image1.png image2.png'\n")
+	print(f"Usage:\n\tpython3 {args[0]} <image 1> <image 2>\n\nExample:\n\tpython3 {args[0]} 'image1.png' 'image2.png'\n")
 	print(f"\nOptional arguments:\n\t-h: Show this help screen\n")
 
 args = sys.argv
